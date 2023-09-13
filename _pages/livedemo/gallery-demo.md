@@ -71,6 +71,11 @@ tags:
             <div class="title">Jukebox(Three.js + React.js)</div>
         </div>
         <div class="gallery-item">
+            <img src='/assets/images/demo/rustetris.jpg' >
+            <a href="https://github.com/onejae/rust-tetris" class="hover-button" target='_blank'>Open</a>
+            <div class="title">Tetris written in Rust(Rust)</div>
+        </div> 
+        <div class="gallery-item">
             <img src='/assets/images/demo/oraksil.png' >
             <a href="https://github.com/onejae/oraksil" class="hover-button" target='_blank'>Open</a>
             <div class="title">Game Streaming(k8s, C++, Go)</div>
