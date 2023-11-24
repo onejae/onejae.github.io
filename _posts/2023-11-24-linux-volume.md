@@ -1,5 +1,5 @@
 ---
-title: "Extend LV in ubuntu"
+title: "Extending Logical Volume in Ubuntu"
 
 categories:
   - Notes
@@ -56,7 +56,7 @@ After successfully creating PV, I added it to the existing VG
 
 I can see VG size is extended about 1.06TB
 
-### Extend LV and resize the file system
+### Extending LV and resizing the file system
 
 To fully utilize the newly added space, I extended the LV
 ```shell
