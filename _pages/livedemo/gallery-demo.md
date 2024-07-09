@@ -85,6 +85,17 @@ tags:
             <a href="https://yesjamstudio.com/" class="hover-button" target='_blank'>Open</a>
             <div class="title">Metronome(React Native)</div>
         </div>
+        <div class="gallery-item">
+            <img src='/assets/images/demo/cctube-web.png' >
+            <a href="https://englishtube.netlify.app/" class="hover-button" target='_blank'>Open</a>
+            <div class="title">CC Tube Web(SvelteKit)</div>
+        </div>
+        <div class="gallery-item">
+            <img src='/assets/images/demo/cctube-app.png' >
+            <a href="https://play.google.com/store/apps/details?id=com.yesjamstudio.cctube&pli=1" class="hover-button" target='_blank'>Open</a>
+            <div class="title">CC Tube App(React Native)</div>
+        </div>
       </div>
+
 </body>
 </html>
