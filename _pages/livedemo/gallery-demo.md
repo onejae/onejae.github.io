@@ -86,7 +86,7 @@ tags:
             <div class="title">Metronome(React Native)</div>
         </div>
         <div class="gallery-item">
-            <img src='/assets/images/demo/cctube-app.jpg' >
+            <img src='/assets/images/demo/cctube-web.png' >
             <a href="https://englishtube.netlify.app/" class="hover-button" target='_blank'>Open</a>
             <div class="title">CC Tube Web(SvelteKit on Netlify)</div>
         </div>
