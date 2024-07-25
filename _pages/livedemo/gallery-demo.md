@@ -81,12 +81,12 @@ tags:
             <div class="title">Game Streaming(k8s, C++, Go)</div>
         </div> 
         <div class="gallery-item">
-            <img src='/assets/images/demo/keymetronome.png' >
+            <img src='/assets/images/demo/jazz.jpg' >
             <a href="https://yesjamstudio.com/" class="hover-button" target='_blank'>Open</a>
             <div class="title">Metronome(React Native)</div>
         </div>
         <div class="gallery-item">
-            <img src='/assets/images/demo/cctube-web.png' >
+            <img src='/assets/images/demo/cctube-app.jpg' >
             <a href="https://englishtube.netlify.app/" class="hover-button" target='_blank'>Open</a>
             <div class="title">CC Tube Web(SvelteKit on Netlify)</div>
         </div>
