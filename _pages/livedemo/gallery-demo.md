@@ -91,7 +91,7 @@ tags:
             <div class="title">CC Tube Web(SvelteKit on Netlify)</div>
         </div>
         <div class="gallery-item">
-            <img src='/assets/images/demo/cctube-app.png' >
+            <img src='/assets/images/demo/cctube-app.jpg' >
             <a href="https://play.google.com/store/apps/details?id=com.yesjamstudio.cctube&pli=1" class="hover-button" target='_blank'>Open</a>
             <div class="title">CC Tube App(React Native)</div>
         </div>
