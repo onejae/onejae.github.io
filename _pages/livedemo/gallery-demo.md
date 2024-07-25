@@ -67,7 +67,7 @@ tags:
    <div class="gallery">
         <div class="gallery-item">
             <img src='/assets/images/demo/jukebox.png' >
-            <a href="https://onejae.github.io/demo/jukebox" class="hover-button" target='_blank'>Open</a>
+            <a href="https://github.com/onejae/jazzpiano/" class="hover-button" target='_blank'>Open</a>
             <div class="title">Jukebox(Three.js + React.js)</div>
         </div>
         <div class="gallery-item">
@@ -88,7 +88,7 @@ tags:
         <div class="gallery-item">
             <img src='/assets/images/demo/cctube-web.png' >
             <a href="https://englishtube.netlify.app/" class="hover-button" target='_blank'>Open</a>
-            <div class="title">CC Tube Web(SvelteKit)</div>
+            <div class="title">CC Tube Web(SvelteKit on Netlify)</div>
         </div>
         <div class="gallery-item">
             <img src='/assets/images/demo/cctube-app.png' >
